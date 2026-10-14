@@ -1,0 +1,2 @@
+# PhoText Extension Privacy Policy
+The PhoText browser extension collects, stores and transmits no personal data. It adds right-click menu items and, when you click one, opens the corresponding page on https://photext.ai in a new tab. It does not read page content and does not access or upload your images; you choose what to upload on photext.ai, where the site's own policy at https://photext.ai/privacy applies. Contact: admin@photext.shop
